@@ -1,0 +1,13 @@
+{
+  "name": "matrix-rain",
+  "version": "1.0.0",
+  "description": "A Matrix rain animation",
+  "main": "server.js",
+  "author": "Ercan aka SmokeMic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
+
+
