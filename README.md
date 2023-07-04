@@ -23,12 +23,11 @@ To install this project, follow these steps:
 ## Usage
 To run this project, follow these steps:
 
-1. Navigate to the project directory on your local machine and change
-   in the Matrix.Rain.bat the your pc name (cd /d "C:\Users\YOURNAME\Desktop\maTRIX") !
+1. Navigate to the project directory on your local machine and right click the Matrix.Rain.bat and change to your own Folder Directory like this example (cd /d "C:\Users\YOURNAME\Download\maTRIX") 
 
-2. Run the command `npm start` to start the server
+3. Run the command `npm start` to start the server
 
-3. Open your web browser and go to `http://localhost:3000` to see the Matrix rain animation
+4. Open your web browser and go to `http://localhost:3000` to see the Matrix rain animation
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to contribute to this project, feel free to open an issue or create a pull request.
