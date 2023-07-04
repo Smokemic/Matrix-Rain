@@ -3,11 +3,27 @@
   "version": "1.0.0",
   "description": "A Matrix rain animation",
   "main": "server.js",
-  "author": "Ercan aka SmokeMic",
+  "author": "SmokeMic https://github.com/Smokemic/Matrix-Rain",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smokemic/Matrix-Rain.git"
+  },
+  "keywords": [
+    "a",
+    "Matrix",
+    "Rain",
+    "Animation"
+  ],
+  "bugs": {
+    "url": "https://github.com/Smokemic/Matrix-Rain/issues"
+  },
+  "homepage": "https://github.com/Smokemic/Matrix-Rain#readme"
 }
-
-
