@@ -11,7 +11,7 @@ A simple web application that displays the "Matrix Rain" animation on a webpage.
 
 ## Introduction
 This project is a simple web application that displays the "Matrix Rain" animation on a webpage. 
-It was built with the Help of OpenAI as a fun project and also to learn and practice web development with HTML, CSS, and JavaScript.
+It was built with the Help of OpenAI as a fun and first project and also to learn and practice web development with HTML, CSS, and JavaScript.
 
 ## Installation
 To install this project, follow these steps:
@@ -23,7 +23,8 @@ To install this project, follow these steps:
 ## Usage
 To run this project, follow these steps:
 
-1. Navigate to the project directory on your local machine
+1. Navigate to the project directory on your local machine and change
+   in the Matrix.Rain.bat the your pc name (cd /d "C:\Users\YOURNAME\Desktop\maTRIX") !
 
 2. Run the command `npm start` to start the server
 
