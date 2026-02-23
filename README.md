@@ -11,7 +11,7 @@ A simple web application that displays the "Matrix Rain" animation on a webpage.
 
 ## Introduction
 This project is a simple web application that displays the "Matrix Rain" animation on a webpage. 
-It was built with the Help of OpenAI as a fun and first project and also to learn and practice web development with HTML, CSS, and JavaScript.
+It was built with the Help of OpenAI as a fun and first project and also to learn and practice AI Slob use + web development with HTML, CSS, and JavaScript.
 
 ## Installation
 To install this project, follow these steps:
@@ -29,8 +29,6 @@ To run this project, follow these steps:
 
 4. Open your web browser and go to `http://localhost:3000` to see the Matrix rain animation
 
-## Contributing
-Contributions are welcome! If you find any issues or want to contribute to this project, feel free to open an issue or create a pull request.
 
 ## License
 This project is licensed under the [MIT license](https://github.com/SmokeMic/matrix-rain/blob/main/LICENSE).
